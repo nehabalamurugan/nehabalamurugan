@@ -8,7 +8,7 @@ My name is Neha Balamurugan. I study Computer Science.
 | ------------- | ------------- | ------------- | ------------- |
 | Hacks for Humanities | CareUp | A cool app | Grand Prize |
 | HackMIT  | SusProduce  | A cool app | Best Solution for Customer Packaged Goods(CPG) |
-| TreeHacks  | YouCare  | A cool app | Best Use of Open Platform challenge (sponsored by [[You.com](url))](https://you.com/) |
+| TreeHacks  | YouCare  | A cool app | Best Use of Open Platform challenge (sponsored by [You.com](https://you.com/) |
 | Devils Invent  | VisionARy | A cool app | 
 
 
