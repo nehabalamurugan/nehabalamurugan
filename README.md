@@ -4,6 +4,14 @@ My name is Neha Balamurugan. I study Computer Science.
 ## Research
 
 ## Hackathons
+| Hackathon  | Project | Description | Prize |
+| ------------- | ------------- | ------------- | ------------- |
+| Hacks for Humanities | CareUp | A cool app | Grand Prize |
+| HackMIT  | SusProduce  | A cool app | Best Solution for Customer Packaged Goods(CPG) |
+| TreeHacks  | YouCare  | A cool app | Best Use of Open Platform challenge (sponsored by [[You.com](url))](https://you.com/) |
+| Devils Invent  | VisionARy | A cool app | 
+
+
 
 ## Skills
 
