@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-My name is Neha Balamurugan. I study Computer Science. 
+My name is Neha Balamurugan. I study Computer Science.
 
 ## Research
 
