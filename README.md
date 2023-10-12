@@ -12,9 +12,9 @@ My name is Neha Balamurugan. I study Computer Science and will be interested in 
 | Hackathon  | Project | Description | Prize |
 | ------------- | ------------- | ------------- | ------------- |
 | Hacks for Humanities 2022 | CareUp | A cool app | Grand Prize |
-| HackMIT 2023 | SusProduce  | A cool app | Best Solution for Consumer Packaged Goods(CPG) |
+| HackMIT 2023 | [SusProduce](https://github.com/nehabalamurugan/SusProduce-HackMIT)  | A cool app | Best Solution for Consumer Packaged Goods(CPG) |
 | TreeHacks 2023 | YouCare  | A cool app | Best Use of Open Platform challenge (sponsored by [You.com](https://you.com/)) |
-| Devils Invent 2023 | VisionARy | A cool app | 
+| Devils Invent 2023 | [VisionARy](https://github.com/msrivas-7/VisionARy) | A cool app | 
 
 ## Skills
 
