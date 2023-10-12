@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋🏾
+My name is Neha Balamurugan. I study Computer Science. 
+
+## Research
+
+## Hackathons
+
+## Skills
+
 
 <!--
 **nehabalamurugan/nehabalamurugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
