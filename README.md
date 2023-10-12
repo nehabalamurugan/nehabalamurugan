@@ -1,17 +1,18 @@
 ### Hi there 👋🏾
-My name is Neha Balamurugan. I study Computer Science.
+My name is Neha Balamurugan. I study Computer Science and am a tech freak.
 
 ## Research
+1. Enhancing learning expereinces through storytelling in **Virtual Reality**
+2. Improving driver safety using **Augmented Reality**
+3. Visualizing fluid dynamic data in **Virtual Reality**
 
 ## Hackathons
 | Hackathon  | Project | Description | Prize |
 | ------------- | ------------- | ------------- | ------------- |
-| Hacks for Humanities | CareUp | A cool app | Grand Prize |
-| HackMIT  | SusProduce  | A cool app | Best Solution for Customer Packaged Goods(CPG) |
-| TreeHacks  | YouCare  | A cool app | Best Use of Open Platform challenge (sponsored by [You.com](https://you.com/)) |
-| Devils Invent  | VisionARy | A cool app | 
-
-
+| Hacks for Humanities 2022 | CareUp | A cool app | Grand Prize |
+| HackMIT 2023 | SusProduce  | A cool app | Best Solution for Consumer Packaged Goods(CPG) |
+| TreeHacks 2023 | YouCare  | A cool app | Best Use of Open Platform challenge (sponsored by [You.com](https://you.com/)) |
+| Devils Invent 2023 | VisionARy | A cool app | 
 
 ## Skills
 
