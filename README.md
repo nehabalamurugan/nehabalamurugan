@@ -1,10 +1,12 @@
 ### Hi there 👋🏾
-My name is Neha Balamurugan. I study Computer Science and am a tech freak.
+My name is Neha Balamurugan. I study Computer Science and will be interested in just about anything technology.
 
 ## Research
-1. Enhancing learning experiences through storytelling in **Virtual Reality**
-2. Improving driver safety in automibles using **Augmented Reality**
-3. Visualizing fluid dynamic datasets in **Virtual Reality**
+1. **VR**: Enhancing learning experiences through storytelling
+2. **VR**: Visualizing fluid dynamic dataset
+3. **AR**: Improving driver safety in automibles
+4. Quantum Computing
+
 
 ## Hackathons
 | Hackathon  | Project | Description | Prize |
